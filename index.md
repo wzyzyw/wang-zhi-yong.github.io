@@ -9,7 +9,7 @@
       <p><b>地址：武汉市武昌区珞珈山街街道八一路299号武汉大学电子信息学院，邮编430072</b></p>
     </td>
     <td width="25%">
-      <img src="/wangzhiyong.jpg" width="100%">      % 插入证件照代码
+      <img src="/wangzhiyong.jpg" width="100%">      
     </td>
   </tr>
 </table>
@@ -42,8 +42,8 @@
 * 软件设计师证书
 
 ## 交流方式
-[![Github](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/git.jpg =50x50 "github")](https://github.com/wzyzyw)
-[![CSDN](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/csdn.jpg =50x50 "csdn")](https://me.csdn.net/ha_____ha)
+[![Github](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/git2.jpg "github")](https://github.com/wzyzyw)
+[![CSDN](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/csdn.jpg "csdn")](https://me.csdn.net/ha_____ha)
 
 
 
