@@ -42,8 +42,8 @@
 * 软件设计师证书
 
 ## 交流方式
-[![Github](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/git.jpg "github")](https://github.com/wzyzyw)
-[![CSDN](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/csdn.jpg "csdn")](https://me.csdn.net/ha_____ha)
+[![Github](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/git.jpg =50x50 "github")](https://github.com/wzyzyw)
+[![CSDN](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/csdn.jpg =50x50 "csdn")](https://me.csdn.net/ha_____ha)
 
 
 
