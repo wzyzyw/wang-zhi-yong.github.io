@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## 个人信息
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>王智勇</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>武汉大学电子信息学院</b></p>
+      <p><b>邮箱：</b>wang_zhi_yongwhu@126.com</p>
+      <p><b>地址：武汉市武昌区珞珈山街街道八一路299号武汉大学电子信息学院，邮编430072</b></p>
+    </td>
+    <td width="25%">
+      <img src="/wangzhiyong.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/wzyzyw/wang-zhi-yong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## 教育经历
+### 本科（2014-2018）
+武汉大学电子信息学院，通信工程
+主修课程：面向对象程序设计、微机系统与接口、信号与系统、信息论与编码、通信原理、数字信号处理等。
+### 研究生（2018-至今）
+武汉大学电子信息学院，信息与通信工程
+主修课程：信号检测与估计、现代信号与信息处理、矩阵论、随机过程、互联网技术等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 奖项荣誉
+* 2015.10 武汉大学优秀学生丙等奖学金
+* 2016.04 第八届“自强杯”武汉大学创业大赛创业计划竞赛，校赛三等奖
+* 2016.04 第七届全国大学生数学竞赛三等奖
+* 2016.04 武汉大学第九届“回访母校，携手成长”专题社会实践活动一等奖
+* 2016.10 武汉大学优秀学生乙等奖学金
+* 2016.12 “华舟应急杯”湖北省大学生创新创业设计大赛二等奖
+* 2017.05 第 10 届华中数模邀请赛二等奖
 
-### Markdown
+## 项目经历
+### 短波MIMO关键技术（2018-2020）
+本项目基于USRP（通用软件无线电外设）+GNU Radio搭建短波MIMO实验平台，并在此基础上对短波MIMO关键技术如：空时编码、同步、信道估计与均衡等算法进行仿真研究和实际实验验证。
+### 机器人控制
+本项目旨在开发基于人工智能的通用物流管理系统，主要任务包括基于强化学习技术训练机器人在仓库中避障行驶、搭建中继服务器实现远程服务器和本地机器人的信息交互、并通过中继服务器实现Unity虚拟仓库环境和真实机器人场景的同步。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 证书
+* CET-6级证书
+* 软件设计师证书
 
-```markdown
-Syntax highlighted code block
+## 交流方式
+[![Github](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/git.jpg "github")](https://github.com/wzyzyw)
+[![CSDN](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/csdn.jpg "csdn")](https://me.csdn.net/ha_____ha)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wzyzyw/wang-zhi-yong.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
