@@ -9,7 +9,7 @@
       <p><b>地址：武汉市武昌区珞珈山街街道八一路299号武汉大学电子信息学院，邮编430072</b></p>
     </td>
     <td width="25%">
-      <img src="/wangzhiyong.jpg" width="100%">      
+      <img src="https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/img/wangzhiyong.jpg" width="100%">      
     </td>
   </tr>
 </table>
