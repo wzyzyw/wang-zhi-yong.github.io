@@ -18,6 +18,7 @@
 ### 本科（2014-2018）
 武汉大学电子信息学院，通信工程
 主修课程：面向对象程序设计、微机系统与接口、信号与系统、信息论与编码、通信原理、数字信号处理等。
+
 ### 研究生（2018-至今）
 武汉大学电子信息学院，信息与通信工程
 主修课程：信号检测与估计、现代信号与信息处理、矩阵论、随机过程、互联网技术等。
@@ -42,8 +43,8 @@
 * 软件设计师证书
 
 ## 交流方式
-[![Github](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/git2.gif "github")](https://github.com/wzyzyw)
-[![CSDN](https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/csdn.jpg "csdn")](https://me.csdn.net/ha_____ha)
+[![Github]( https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/img/git.gif  "github")](https://github.com/wzyzyw)
+[![CSDN]( https://github.com/wzyzyw/wang-zhi-yong.github.io/blob/master/img/csdn.jpg  "csdn")](https://me.csdn.net/ha_____ha)
 
 
 
